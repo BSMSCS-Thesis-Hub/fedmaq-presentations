@@ -1,0 +1,11 @@
+# Repository Preferences & Style Rules
+
+User-defined repository preferences and stylistic constraints that all AI agents and co-authors must strictly implement.
+
+## 1. Professional Tone and Visual Rules
+- **Strict Emoji Ban:** Do not use emojis in any repository files (including README.md, slide registry, project metadata, LaTeX slides, or documentation). Emojis are considered unprofessional in a master's thesis repository and identify machine-generated text. Use text-based descriptors or traditional Markdown indicators instead (e.g. `[Complete]`, `[Draft]`, `[x]`, `[ ]`).
+- **Clean Alignment:** Maintain clean visual layouts for Markdown tables and LaTeX source formatting. Keep BibTeX entries strictly aligned (as seen in [references.bib](file:///c:/Users/Quirora/Documents/GitHub/slides/references.bib)).
+
+## 2. Preference Tracking
+- Always check this file and the `.agents/rules/` subdirectory for active preferences before making edits or adding content.
+- Update this file whenever the user communicates new structural, styling, or workflow preferences.

@@ -62,3 +62,15 @@ Conversely, state-of-the-art dynamic compression algorithms (like DynFed) base t
 - **Gradient Update**: $g_k$ for client $k$.
 - **Quantization Bit-Width**: $b_k$ for client $k$ (the target optimization parameter).
 - **Objective Function**: $f(w)$ or $F_k(w)$ for local objectives.
+
+---
+
+## 6. Presentation Slide Deck Preferences
+
+- **Emoji Restriction**: Emojis are strictly banned from all repository files, slide decks, and documentation to maintain a professional, human-authored academic standard.
+- **Visual-First Strategy**: Prioritize large visual elements (TikZ block flowcharts, diagrams, tables, or image placeholders) over text blocks. Dedicate slides to a single visual centerpiece with minimal, high-impact titles.
+- **Wording Constraint**: Avoid long paragraphs. Use strictly concise phrases, fragments, or short bullet points (maximum 1-2 lines per item).
+- **Placeholder Standards**: Every image placeholder must explicitly direct where to source the graphic (e.g. referencing specific paper figure/table numbers or local files).
+- **Workspace Layout**: All research progress updates are isolated under the `updates/` folder using milestone-based subfolders (e.g. `updates/y3t3w4/`) to keep the repository clean and compile-safe.
+- **Pacing and Slide Separation**: Do not cram multiple distinct milestones or points into a single slide. Break down multi-faceted concepts (such as repository organization, framework selection, and baseline algorithm replication) into separate, dedicated visual-first slides.
+- **No Paper Statistics**: Avoid tracking or presenting metadata stats regarding papers read, gathered, or skimmed (e.g. "27 papers", "19 analyzed"). Progress updates must prioritize core scientific insights, findings, and technical takeaways over administrative reading statistics.

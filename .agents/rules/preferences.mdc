@@ -4,6 +4,15 @@ User-defined repository preferences and stylistic constraints that all AI agents
 
 ## 1. Professional Tone and Visual Rules
 - **Strict Emoji Ban:** Do not use emojis in any repository files (including README.md, slide registry, project metadata, LaTeX slides, or documentation). Emojis are considered unprofessional in a master's thesis repository and identify machine-generated text. Use text-based descriptors or traditional Markdown indicators instead (e.g. `[Complete]`, `[Draft]`, `[x]`, `[ ]`).
+- **Visual-First Layouts:** Slide layouts must prioritize large visual elements (images, tables, or TikZ block diagrams) over text.
+  - Break text-heavy frames into separate, highly focused slides.
+  - Dedicate frames to a single large image placeholder with minimal text.
+- **Pacing and Slide Separation:** Do not cram multiple distinct milestones or points into a single slide. Break down multi-faceted concepts (such as repository organization, framework selection, and baseline algorithm replication) into separate, dedicated visual-first slides.
+- **No Paper Statistics:** Avoid tracking or presenting metadata stats regarding papers read, gathered, or skimmed (e.g. "27 papers", "19 analyzed"). Progress updates must prioritize core scientific insights, findings, and technical takeaways over administrative reading statistics.
+- **Visual Placeholders:** When creating image placeholders, explicitly guide the user on where to obtain the visual:
+  - Reference a specific paper from the library, including author, year, and figure/table number (e.g., "Take Figure 2 from Cajas Ordonez et al. 2025").
+  - Indicate if they should source it from the internet (e.g., "Source AWS Badge from the official AWS Certification portal").
+- **Conciseness:** Avoid long, explanatory paragraphs. Use concise bullet fragments or short phrases (maximum 1-2 lines per bullet).
 - **Clean Alignment:** Maintain clean visual layouts for Markdown tables and LaTeX source formatting. Keep BibTeX entries strictly aligned (as seen in [references.bib](file:///c:/Users/Quirora/Documents/GitHub/slides/references.bib)).
 
 ## 2. Preference Tracking

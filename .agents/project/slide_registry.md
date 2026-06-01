@@ -21,7 +21,7 @@ This registry tracks the organization of files inside `sections/` and the weekly
 
 | Presentation Folder                                                                | Version / Date | Scope of Update                                                                  | Status     | PDF Output                                                                                                                          |
 | :--------------------------------------------------------------------------------- | :------------- | :------------------------------------------------------------------------------- | :--------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| [updates/week01/](file:///c:/Users/Quirora/Documents/GitHub/slides/updates/week01) | Week 1 Update  | Summary papers Venn diagram, Flower framework selection, FedAvg/Prox replication | [Complete] | [updates/compiled_pdfs/week01_update.pdf](file:///c:/Users/Quirora/Documents/GitHub/slides/updates/compiled_pdfs/week01_update.pdf) |
+| [updates/y3t3w4/](file:///c:/Users/Quirora/Documents/GitHub/slides/updates/y3t3w4) | Y3T3W4 Update  | Summary papers Venn diagram, Flower framework selection, FedAvg/Prox replication | [Complete] | [updates/compiled_pdfs/y3t3w4_update.pdf](file:///c:/Users/Quirora/Documents/GitHub/slides/updates/compiled_pdfs/y3t3w4_update.pdf) |
 
 ---
 

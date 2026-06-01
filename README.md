@@ -33,9 +33,9 @@ The presentation is fully modularized to keep files lightweight and easy to mana
 │       └── arch_vis.tex          # Decentralized nodes flow flowchart
 ├── updates/                      # Research progress updates & milestone slides
 │   ├── compiled_pdfs/            # Archive directory for finalized presentation PDFs
-│   └── week01/                   # Week 1 progress report slides
+│   └── y3t3w4/                   # Y3T3W4 progress report slides
 │       ├── main.tex              # Update presentation compiler driver
-│       └── figures/tikz/         # Venn diagram TikZ files for week 1
+│       └── figures/tikz/         # Venn diagram TikZ files for Y3T3W4
 ├── references.bib                # Thesis citation database (BibTeX)
 ├── .gitignore                    # LaTeX compilation log filtering configuration
 └── main.tex                      # Central compiler entry-point
